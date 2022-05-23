@@ -29,33 +29,33 @@
 ## Installation
 
 ```bash
-$ npm install
+$ yarn add
 ```
 
 ## Running the app
 
 ```bash
 # development
-$ npm run start
+$ yarn start
 
 # watch mode
-$ npm run start:dev
+$ yarn start:dev
 
 # production mode
-$ npm run start:prod
+$ yarn start:prod
 ```
 
 ## Test
 
 ```bash
 # unit tests
-$ npm run test
+$ yarn run test
 
 # e2e tests
-$ npm run test:e2e
+$ yarn run test:e2e
 
 # test coverage
-$ npm run test:cov
+$ yarn run test:cov
 ```
 
 ## Support
@@ -71,5 +71,11 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
-# Authentication-Login-Nestjs
-# Authentication-Login-Nestjs
+
+##Contact
+
+- Youtube - [Đậu Nam PC](https://www.youtube.com/channel/UC-82KLaY-q6PxW4HeghpMcw)
+- Facebook - [Đậu Văn Nam](https://www.facebook.com/kazuto2002/)
+- Github - [namdau1102][https://github.com/namdau1102/]
+
+##Đâu Nam PC
